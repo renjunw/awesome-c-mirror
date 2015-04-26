@@ -1,4 +1,14 @@
-# Awesome C #
+
+
+
+
+# Awesome C Mirror #
+the mirror for [Awesome-c][400]
+
+
+===========================================================================
+
+
 
 A curated list of C good stuff. This list contains *only* [free software][13] for code, and sellers who aren't evil for physical resources.
 
@@ -831,3 +841,6 @@ XML
 [341]: http://www.pyyaml.org/wiki/LibYAML
 [342]: https://www.xiph.org/ao/
 
+
+
+[400]:https://notabug.org/koz.ross/awesome-c
